@@ -1,0 +1,10 @@
+train_folder: "data/train"
+test_folder: "data/test"
+
+sense_score_cols: ["sourness", "bitterness"]
+image_height: 299
+image_width: 299
+channels: 3
+
+epochs: 8
+batch_size: 4
